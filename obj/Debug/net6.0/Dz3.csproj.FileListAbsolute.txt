@@ -1,0 +1,15 @@
+/Users/svetlanamazara/Desktop/Csharp/Dz3/bin/Debug/net6.0/Dz3
+/Users/svetlanamazara/Desktop/Csharp/Dz3/bin/Debug/net6.0/Dz3.deps.json
+/Users/svetlanamazara/Desktop/Csharp/Dz3/bin/Debug/net6.0/Dz3.runtimeconfig.json
+/Users/svetlanamazara/Desktop/Csharp/Dz3/bin/Debug/net6.0/Dz3.dll
+/Users/svetlanamazara/Desktop/Csharp/Dz3/bin/Debug/net6.0/Dz3.pdb
+/Users/svetlanamazara/Desktop/Csharp/Dz3/obj/Debug/net6.0/Dz3.csproj.AssemblyReference.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz3/obj/Debug/net6.0/Dz3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetlanamazara/Desktop/Csharp/Dz3/obj/Debug/net6.0/Dz3.AssemblyInfoInputs.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz3/obj/Debug/net6.0/Dz3.AssemblyInfo.cs
+/Users/svetlanamazara/Desktop/Csharp/Dz3/obj/Debug/net6.0/Dz3.csproj.CoreCompileInputs.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz3/obj/Debug/net6.0/Dz3.dll
+/Users/svetlanamazara/Desktop/Csharp/Dz3/obj/Debug/net6.0/refint/Dz3.dll
+/Users/svetlanamazara/Desktop/Csharp/Dz3/obj/Debug/net6.0/Dz3.pdb
+/Users/svetlanamazara/Desktop/Csharp/Dz3/obj/Debug/net6.0/Dz3.genruntimeconfig.cache
+/Users/svetlanamazara/Desktop/Csharp/Dz3/obj/Debug/net6.0/ref/Dz3.dll
